@@ -16,11 +16,14 @@ The delegated staking mechanism that makes EOSIO so quick with transactions also
 
 Competitors include Ethereum, Lisk, Telos, Cardano, and Worbli. Telos, and Worbli are EOSIO code fork chains, and have seen several developers move from the EOSIO network. Although initially touted as the Ethereum killer, and it’s mainnet token EOS once reaching the 4th highest market cap, it has since fallen to the 25th in terms of market cap. Ethereum is still the most popular choice for dapp development, and the launch of Ethereum 2.0 will only further jeopardize the future of EOSIO. 
 
-The EOSIO team maintains its commitment to making improvements with Google cloud joining the blockchain producer community with hopes of becoming a voting member of the blockchain.
+The EOSIO team maintains its commitment to making improvements with Google cloud joining the blockchain producer community with hopes of becoming a voting member of the blockchain. Unless the network makes changes to its current flawed governance model, it will be soon find itself short of developers willing to use the EOSIO network for their dapp development and deployment
  
 ## Recommendations 
 
-Bullet points of key features such as scale, cost, username, etc.
+* Fix governance issue
+* Improve marketing and attract well known developers
+* Bring on experienced and renowned developers to the board who are motivated by the long term success of the network
+
 
 ## References 
 * https://eos.io/faq/
@@ -28,3 +31,7 @@ Bullet points of key features such as scale, cost, username, etc.
 * https://www.coindesk.com/crypto/eos
 * https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md
 * https://www.coinbase.com/earn/eos/lesson/1
+
+#### Note
+
+This document will be updated and improved in the future as I learn more about decentralized applications and crytocurrencies
